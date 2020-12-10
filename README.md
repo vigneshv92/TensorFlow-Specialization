@@ -8,3 +8,4 @@
 
 * [Natural Language Processing in TensorFlow]()
 
+* [Sequences, Time Series and Prediction]()
