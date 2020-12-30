@@ -11,3 +11,15 @@
 * Exercise 1 - Create and predict synthetic data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/Week%201%20Exercise%20Question.ipynb)
 
 * Answer - Create and predict synthetic data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/Week%201%20Exercise%20Answer.ipynb)
+
+## Deep Neural Networks for Time Series
+
+> Having explored time series and some of the common attributes of time series such as trend and seasonality, and then having used statistical methods for projection, let's now begin to teach neural networks to recognize and predict on time series!
+
+* Preparing features and labels notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%202%20Lesson%201.ipynb)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
