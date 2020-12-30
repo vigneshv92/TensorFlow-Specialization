@@ -27,3 +27,9 @@
 * Single layer neural network notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%202%20Lesson%202.ipynb)
 
 * Deep neural network notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%202%20Lesson%203.ipynb)
+
+## Week 3
+
+## Recurrent Neural Networks for Time Series
+
+> Recurrent Neural networks and Long Short Term Memory networks are really useful to classify and predict on sequential data. This week we'll explore using them with time series
