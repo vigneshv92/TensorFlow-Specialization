@@ -54,3 +54,5 @@ Next week you'll do that, exploring prediction of sunspot data from a couple of 
 ## Real-world time series data
 
 * [CNN](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+
+* [More on batch sizing](https://www.youtube.com/watch?v=4qJaSmvhxi8)
