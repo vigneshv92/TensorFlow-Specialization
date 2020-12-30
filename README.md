@@ -6,6 +6,6 @@
 
 * [Convolutional Neural Networks in TensorFlow]()
 
-* [Natural Language Processing in TensorFlow]()
+* [Natural Language Processing in TensorFlow](https://github.com/vigneshv92/TensorFlow-Specialization/tree/main/Natural%20Language%20Processing%20in%20TensorFlow)
 
 * [Sequences, Time Series and Prediction](https://github.com/vigneshv92/TensorFlow-Specialization/tree/main/Sequences%2C%20Time%20Series%20and%20Prediction)
