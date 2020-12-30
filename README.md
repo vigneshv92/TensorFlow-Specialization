@@ -8,4 +8,4 @@
 
 * [Natural Language Processing in TensorFlow]()
 
-* [Sequences, Time Series and Prediction]()
+* [Sequences, Time Series and Prediction](https://github.com/vigneshv92/TensorFlow-Specialization/tree/main/Sequences%2C%20Time%20Series%20and%20Prediction)
