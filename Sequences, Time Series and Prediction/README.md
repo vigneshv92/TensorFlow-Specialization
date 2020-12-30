@@ -41,5 +41,7 @@
 * LSTM notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%203%20Lesson%204%20-%20LSTM.ipynb)
 
 > Now that you've built on your DNNs with RNNs and LSTMs, it's time to put it all together using CNNs and some real world data.
-
 Next week you'll do that, exploring prediction of sunspot data from a couple of hundred years worth of measurements!
+
+* Exercise 3 - Mean Absolute Error
+In class you learned about RNNs and LSTMs for prediction, as well as a simple methodology to pick a decent learning rate for the stochastic gradient descent optimizer. In this exercise you’ll take a synthetic data set and write the code to pick the learning rate and then train on it to get an MAE of < 3
